@@ -1,0 +1,54 @@
+Acre                     Rio Branco
+Alagoas                  Maceio
+Amapa                    Macapa
+Amazonas                 Manaus
+Bahia                    Salvador
+Ceara                    Fortaleza
+Distrito Fedreal         Brasilia
+Espirito Santo           Vitoria
+Goias                    Goiania
+Maranhao                 Sao Luis
+Mato Grosso              Cuiaba
+Mato Grosso do Sul       Campo Grande
+Minas Gerais             Belo Horizonte
+Para                     Belem
+Paraiba                  Joao Pessoa
+Parana                   Curitiba
+Pernambuco               Recife
+Piaui                    Teresina
+Rio de Janeiro           Rio de Janeiro
+Rio Grande do Norte      Natal
+Rio Grande do Sul        Porto Alegre
+Rondonia                 Porto Velho
+Santa Catarina           Florianopolis
+Sao Paulo                Sao Paulo
+Sergipe                  Aracaju
+Tocantins                Palmas
+Roraima                  Boa Vista
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
